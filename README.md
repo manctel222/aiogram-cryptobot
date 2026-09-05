@@ -22,6 +22,8 @@ Based on the repository architecture:
 *   **Language:** Python 3.10+
 *   **Framework:** [aiogram](https://github.com/aiogram)
 *   **Database:** SQLite (implemented in the `bases` directory)
+*   **API Integration:** [Coinbase API](https://coinbase.com) (for fetching real-time cryptocurrency rates)
+
 
 ---
 
