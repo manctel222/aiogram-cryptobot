@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com](https://github.com/manctel222/aiogram-cryptobot)
+git clone https://github.com/manctel222/aiogram-cryptobot
 cd aiogram-cryptobot
 ```
 
